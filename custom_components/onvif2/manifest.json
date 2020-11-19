@@ -1,0 +1,12 @@
+{
+  "domain": "onvif2",
+  "name": "onvif2",
+  "documentation": "",
+  "requirements": ["suds-py3==1.3.3.0",
+  				   "suds-passworddigest-homeassistant==0.1.2a0.dev0",
+             "ha-ffmpeg>=2.0"],
+  "dependencies": ["ffmpeg"],
+  "codeowners": [
+    "@dylan"
+  ]
+}

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: suds-passworddigest-homeassistant
+Version: 0.1.2a0.dev0
+Summary: adds Web Services Security PasswordDigest authentication to SUDS
+Home-page: http://github.com/suvit/suds-passworddigest
+Author: Victor Safronovich
+Author-email: vsafronovich@gmail.com
+License: MIT
+Description: This package is created from https://github.com/tgaugry/suds-passworddigest-py3/archive/86fc50e39b4d2b8997481967d6a7fe1c57118999.zip#suds-passworddigest-py3==0.1.2a No updates are expected.
+Platform: UNKNOWN
